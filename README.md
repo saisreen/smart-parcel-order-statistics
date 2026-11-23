@@ -26,5 +26,3 @@ The benchmark writes a new `benchmark_results.csv`. Results may change on anothe
 ## Summary
 Median of Medians guarantees O(n) worst-case time; randomized Quickselect has O(n) expected time and O(n²) worst-case time. The implementation uses three-way partitions to handle duplicates. Arrays provide fast indexed access, stacks give LIFO order, circular queues give FIFO order, and linked lists support flexible node insertion.
 
-## Academic submission
-Read and understand the implementation, add your student information to the report, run the code yourself, and follow your institution's rules about AI assistance.
